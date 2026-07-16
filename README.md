@@ -127,8 +127,8 @@ The dashboard includes:
 
 * Budget vs Actual comparison, showing monthly variance trends
 * Overall variance status
-* Top 5 departments by variance
-* Top 5 line items by variance
+* Top 5 variance by department
+* Top 5 variance by line items
 * Favorable and unfavorable variance Status
 
 Interactive slicers were included to allow users to filter the analysis by relevant financial dimensions.
@@ -163,7 +163,8 @@ Coming Soon...
 
 ## Project Files
 
-* `Budget_Variance_Analysis.xlsx` — Excel workbook containing the raw data, EDA, calculations, PivotTables, and dashboard.
+- [Raw Data](Budget_Variance_Analysis_Raw_Data.xlsx)
+- [Completed Excel Analysis](Budget_Variance_Analysis.xlsx)
 
 ---
 
