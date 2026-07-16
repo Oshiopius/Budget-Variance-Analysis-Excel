@@ -114,7 +114,7 @@ The EDA included:
 * Monthly record distribution
 * Basic financial summaries
 
-![Exploratory Data Analysis](images/eda.png)
+![Exploratory Data Analysis](BVA%20Exploratory%20Data%20Analysis.png)
 
 ---
 
@@ -133,7 +133,7 @@ The dashboard includes:
 
 Interactive slicers were included to allow users to filter the analysis by relevant financial dimensions.
 
-![Budget Variance Dashboard](images/dashboard.png)
+![Budget Variance Dashboard](BVA%20Dashboard.png)
 
 ---
 
