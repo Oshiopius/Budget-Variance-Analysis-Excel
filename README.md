@@ -182,5 +182,5 @@ Unfavorable variance is concentrated rather than spread evenly: two departments 
 
 ## Project Status
 
-In Progress
+Complete.
 
