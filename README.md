@@ -75,28 +75,18 @@ The following steps were completed:
 
 ### Calculated Fields
 
-#### Variance
+#### Variance : Actual amount compared with Budget.
 
-Actual amount compared with Budget.
+#### Variance % : Variance expressed as a percentage of Budget.
 
-#### Variance %
+#### Quarter : Used to support time-based analysis.
 
-Variance expressed as a percentage of Budget.
-
-#### Quarter
-
-Used to support time-based analysis.
-
-#### Variance Classification
-
-Variance was classified as Favorable or Unfavorable based on Account Type.
+#### Variance Classification : Variance was classified as Favorable or Unfavorable based on Account Type.
 
 For Revenue:
-
 * Actual above Budget = Favorable
 
 For Expenses:
-
 * Actual above Budget = Unfavorable
 
 ---
@@ -138,13 +128,35 @@ Interactive slicers were included to allow users to filter the analysis by relev
 ---
 
 ## Key Findings 
-Coming soon...
+1. Overall performance
+FY2025 actuals came in 1.2% over budget overall ($27.7M actual vs $27.4M budget). This was driven almost entirely by revenue overperformance (+3.1% favorable across every revenue line) rather than expense overruns, where total expenses landed just 0.03% over budget, effectively flat.
 
+2. Largest monthly variances
+December had by far the largest swing, with revenue beating budget by $166,545, more than double the next-highest month (November, $62,912). On the expense side, monthly variances were much smaller and split fairly evenly between over and under, with March ($5,299 unfavorable) and November (-$6,910, favorable) at the extremes.
+
+3. Departments with the largest unfavorable variances
+Sales & Marketing had the largest expense overrun at $30,413 over budget (+1.1%), followed by Research & Development ($8,708, +0.4%). Together these two departments account for roughly 90% of all unfavorable department-level expense variance.
+
+4. Departments consistently within or below budget
+Supply Chain (-1.1%) and Legal & Compliance (-1.1%) were the most disciplined, followed by Human Resources, Information Technology, and Finance & Admin, all landing under budget for the year.
+
+5. Expense categories driving unfavorable variance
+Commissions ($19,663 over, +4.7%) and External Research ($6,497 over, +4.3%) were the two largest contributors. Together with Advertising & Promotions, these three line items account for about 59% of all unfavorable expense variance FY2025-wide.
+
+6. Revenue lines with the largest variances
+Every revenue line beat budget. Licensing Revenue had the strongest relative performance (+5.0%), while Product Revenue contributed the largest dollar impact ($146,539 over budget, +3.5%) given its size.
+
+7. Concentration of variance
+Unfavorable variance is concentrated rather than spread evenly: two departments (Sales & Marketing, R&D) account for ~90% of unfavorable department variance, and three expense line items account for ~59% of unfavorable expense variance. This means budget attention for FY2026 can be targeted rather than applied across the board.
 ---
 
 ## Recommendations
 
-Coming Soon...
+1. Protect, don't cut, Sales & Marketing's budget. Its overrun is concentrated in Commissions, which scales with revenue performance — the same year Commissions ran 4.7% over, total revenue beat budget by $316,110. Cutting this budget risks cutting the driver behind the revenue upside.
+2. Revisit the December budget assumption for FY2026. December's budget was already set ~67% higher than the average month, but actuals still outpaced it by more than any other month. The seasonal step-up needs to be sized more generously next year.
+3. Use Supply Chain and Legal & Compliance as forecasting benchmarks. Their consistent under-budget performance suggests a forecasting approach (or level of spend discipline) worth understanding and potentially applying to less predictable departments.
+4. Investigate External Research spend before FY2026 planning. Unlike Commissions, its overrun isn't as clearly tied to a measurable output — worth a conversation with R&D on whether this is a one-off or a recurring cost creep.
+5. Target the concentrated 90%, not the whole budget. Since two departments and three expense lines account for the bulk of unfavorable variance, FY2026 budget review time is better spent there than doing an even review across all 11 departments.
 
 
 ---
